@@ -28,7 +28,7 @@ This is a console-based Tic-Tac-Toe game implemented in C#. It allows two player
 - [.NET Framework](https://dotnet.microsoft.com/download) installed on your system.
 - Add C# compiler to path (WinOS users - https://www.youtube.com/embed/QYNhb67qvv4)
 
-<iframe width="916" height="515" src="https://www.youtube.com/embed/QYNhb67qvv4" title="How to set the path of the C# compiler(CSC) on Windows 11 and 10 to compile C# programs on CMD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Stevemats on YouTube](http://img.youtube.com/vi/QYNhb67qvv4/0.jpg)](https://www.youtube.com/embed/QYNhb67qvv4 "How to set the path of the C# compiler(CSC) on Windows 11 and 10")
 
 ### Game Installation
 
@@ -103,4 +103,4 @@ This is a console-based Tic-Tac-Toe game implemented in C#. It allows two player
 
 ## Credits
 
-This Tic-Tac-Toe game was created by [Steve Matindi](https://github.com/stevemats/TicTacToe). Feel free to contribute to it by submitting bug fixes, enhancements, or new features via pull requests[(PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+This Tic-Tac-Toe game was created by [Steve Matindi](https://github.com/stevemats/TicTacToe). Feel free to contribute to it by submitting bug fixes, enhancements, or new features via pull requests[(PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) :star:.
