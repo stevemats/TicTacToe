@@ -6,7 +6,7 @@ This is a console-based Tic-Tac-Toe game implemented in C#. It allows two player
 
 ![alt text](./images/boardSize.png)
 
-![alt text](./images/boardSize.png)
+![alt text](./images/currentBoard.png)
 
 ## Features
 
@@ -49,6 +49,8 @@ This is a console-based Tic-Tac-Toe game implemented in C#. It allows two player
    csc Program.cs TicTacToe.cs
    ```
 
+- Where Program.cs is the name for c# file with the project. Replace with your file name if you update it.
+
 ### Usage
 
 1. Run the executable file to start the game:
@@ -57,9 +59,11 @@ This is a console-based Tic-Tac-Toe game implemented in C#. It allows two player
     tictactoe.exe
    ```
 
+- Your executable will have a name similar to your script name if you compiled with CSC. In this case it is 'tictactoe.exe'.
+
 2. Follow the on-screen instructions to select the board size, choose player symbols, and make moves.
 
-3. Enjoy playing the game.
+3. Enjoy playing the with a friend.
 
 ## Improvable Areas(Feel free to create a PR):
 
